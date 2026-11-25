@@ -1,4 +1,4 @@
-module github.com/jake-young-dev/go/lazy
+module github.com/jake-young-dev/lazy
 
 go 1.20
 
